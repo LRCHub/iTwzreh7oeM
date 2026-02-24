@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "タユタ",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2026-02-24T10:10:02.393220Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "タユタ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_タユタ_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "タユタ",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/02_タユタ_絢香.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "タユタ",
+      "artist": "WIMPS",
+      "has_synced": false,
+      "path": "select/03_タユタ_WIMPS.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "タユタ",
+      "artist": "ayaka",
+      "has_synced": false,
+      "path": "select/04_タユタ_ayaka.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タユタ",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_タユタ_RADWIMPS.txt"
+    }
+  ]
+}
